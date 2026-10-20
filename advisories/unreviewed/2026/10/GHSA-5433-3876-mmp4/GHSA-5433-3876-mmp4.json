@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-5433-3876-mmp4",
-  "modified": "2026-10-20T18:31:42Z",
+  "modified": "2026-10-20T21:30:55Z",
   "published": "2026-10-20T18:31:42Z",
   "aliases": [
     "CVE-2026-107755"
@@ -26,6 +26,10 @@
     {
       "type": "WEB",
       "url": "https://lists.apache.org/thread/ro57p4r2lhxn2n4712ppx7r11oqq900n"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/10/20/16"
     }
   ],
   "database_specific": {

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-7926-69mg-83fh",
-  "modified": "2026-10-20T18:31:46Z",
+  "modified": "2026-10-20T21:31:00Z",
   "published": "2026-10-20T18:31:46Z",
   "aliases": [
     "CVE-2026-90798"
@@ -26,6 +26,10 @@
     {
       "type": "WEB",
       "url": "https://lists.apache.org/thread/m6d526fj57pvq5pswm2lp1shbdz3f417"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/10/20/13"
     }
   ],
   "database_specific": {
