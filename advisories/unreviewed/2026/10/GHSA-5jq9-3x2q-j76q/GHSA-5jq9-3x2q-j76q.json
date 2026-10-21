@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-5jq9-3x2q-j76q",
-  "modified": "2026-10-15T21:36:03Z",
+  "modified": "2026-10-21T03:32:06Z",
   "published": "2026-10-15T21:36:03Z",
   "aliases": [
     "CVE-2026-111130"
@@ -34,6 +34,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/openslide/openslide/blob/fe79a9713bef2bfd64bbfefd15704060764b1274/src/openslide-vendor-mirax.c#L611-L635"
+    },
+    {
+      "type": "WEB",
+      "url": "https://hackmd.io/@haind-pwn/cve-2026-111130-openslide-mirax-slide-position-index-oob-read"
     },
     {
       "type": "WEB",
