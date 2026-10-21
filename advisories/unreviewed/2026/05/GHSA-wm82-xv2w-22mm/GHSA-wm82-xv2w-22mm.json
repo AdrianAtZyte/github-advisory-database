@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-wm82-xv2w-22mm",
-  "modified": "2026-05-11T09:30:32Z",
+  "modified": "2026-10-21T15:40:27Z",
   "published": "2026-05-08T15:31:29Z",
   "aliases": [
     "CVE-2026-43465"
@@ -25,11 +25,19 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/6451ea47d60a8ca3524dfe370c013cd01063c7d3"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/7d7342a18fadcdb70a63b3c930dc63528ce51832"
     },
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/db25c42c2e1f9c0d136420fff5e5700f7e771a6f"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/f0a850677a7b7589208ce11480e6958f516c8386"
     }
   ],
   "database_specific": {

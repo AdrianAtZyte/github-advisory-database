@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-pwfh-32f2-c83x",
-  "modified": "2026-06-05T09:33:45Z",
+  "modified": "2026-10-21T15:40:30Z",
   "published": "2026-05-27T15:33:18Z",
   "aliases": [
     "CVE-2026-45956"
@@ -46,6 +46,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/d3968a0d85b211e197f2f4f06268a7031079e0d0"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/e1aed617eb80b49eac2f8c7bb7a0990f641dd59b"
     }
   ],
   "database_specific": {

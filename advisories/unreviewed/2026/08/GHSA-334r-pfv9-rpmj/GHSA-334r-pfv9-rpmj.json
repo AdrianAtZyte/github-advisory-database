@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-334r-pfv9-rpmj",
-  "modified": "2026-08-10T15:33:42Z",
+  "modified": "2026-10-21T15:40:46Z",
   "published": "2026-08-10T15:33:42Z",
   "aliases": [
     "CVE-2026-68241"
@@ -20,11 +20,19 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/02ceba559412751106c0cfa5cbdb80db50303083"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/9061fbf2230b6fcef042a6f637beae57c2fc93a5"
     },
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/e3bcd3bf7eeca9570b9fa0b2f8a602c7bcc6b0d0"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/fae63319ad397666a9c56a17ea1047d2bf9a1e25"
     }
   ],
   "database_specific": {

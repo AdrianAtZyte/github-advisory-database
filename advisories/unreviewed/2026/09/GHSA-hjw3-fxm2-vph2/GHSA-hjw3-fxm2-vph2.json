@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-hjw3-fxm2-vph2",
-  "modified": "2026-09-18T18:31:29Z",
+  "modified": "2026-10-21T15:41:22Z",
   "published": "2026-09-17T18:31:59Z",
   "aliases": [
     "CVE-2026-90291"
@@ -26,6 +26,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/5eecb11b543f9f417bcf0dea239ff99c6af65dbd"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/a3205bd1f218053575589b14caf8df667f344134"
     },
     {
       "type": "WEB",

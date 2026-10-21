@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-7wgr-jrpm-fgrv",
-  "modified": "2026-10-15T12:30:51Z",
+  "modified": "2026-10-21T15:41:27Z",
   "published": "2026-09-17T18:32:05Z",
   "aliases": [
     "CVE-2026-90427"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/d4d05f55e9da646ec03adfa77260eb46f4163749"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/ea2edb27ef2648d8687cd0fc3ec3ba1793436e7e"
     }
   ],
   "database_specific": {

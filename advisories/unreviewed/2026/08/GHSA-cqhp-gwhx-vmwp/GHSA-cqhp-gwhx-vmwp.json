@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-cqhp-gwhx-vmwp",
-  "modified": "2026-08-17T06:33:16Z",
+  "modified": "2026-10-21T15:40:51Z",
   "published": "2026-08-15T06:32:16Z",
   "aliases": [
     "CVE-2026-72213"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-72213"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/043c509f2488033c68c46d2de2af082fcd568612"
     },
     {
       "type": "WEB",

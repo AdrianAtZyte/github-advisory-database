@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-6jq9-46p7-p377",
-  "modified": "2026-09-17T18:32:03Z",
+  "modified": "2026-10-21T15:41:26Z",
   "published": "2026-09-17T18:32:03Z",
   "aliases": [
     "CVE-2026-90385"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-90385"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/0b187e14dab458d54425fc400f1e1e8d481d9bcf"
     },
     {
       "type": "WEB",

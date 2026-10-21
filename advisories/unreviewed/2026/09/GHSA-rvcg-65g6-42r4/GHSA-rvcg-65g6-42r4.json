@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rvcg-65g6-42r4",
-  "modified": "2026-09-25T06:30:31Z",
+  "modified": "2026-10-21T15:41:35Z",
   "published": "2026-09-24T18:31:35Z",
   "aliases": [
     "CVE-2026-97513"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/04cda0b5c4ca3f61cbc86e41ead3c462c8cfd659"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/0e6bdd437a3c7a5d8846d7f58fe9645a60ec0933"
     },
     {
       "type": "WEB",

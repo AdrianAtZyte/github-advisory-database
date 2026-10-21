@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-wgph-2236-wgxv",
-  "modified": "2026-09-17T18:31:54Z",
+  "modified": "2026-10-21T15:41:21Z",
   "published": "2026-09-17T18:31:54Z",
   "aliases": [
     "CVE-2026-90179"
@@ -25,6 +25,14 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/4ec11f14d1d6fdda787d991b142537be7841d395"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/5f1fedccf3f7add5e2a1205ac4938fa3893c5874"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/91fce09d89b2d397996226216820f0e8b8149e22"
     }
   ],
   "database_specific": {

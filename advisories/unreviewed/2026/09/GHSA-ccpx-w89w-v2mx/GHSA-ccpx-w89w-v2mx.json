@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-ccpx-w89w-v2mx",
-  "modified": "2026-10-15T12:30:50Z",
+  "modified": "2026-10-21T15:41:27Z",
   "published": "2026-09-17T18:32:04Z",
   "aliases": [
     "CVE-2026-90417"
@@ -21,6 +21,14 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/373f3716a2de7adc739269ebb4d87e5bf4dc180c"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/379cf06e6fe34af980064c6ccaf15d8e26ec4a42"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/68c1d2c085f205e8a5338bc3d3304f897deca4d9"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-pfmp-h6h6-98gj",
-  "modified": "2026-10-03T12:31:16Z",
+  "modified": "2026-10-21T15:41:35Z",
   "published": "2026-09-25T12:31:23Z",
   "aliases": [
     "CVE-2026-97535"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/48a44e19746eaa70320a3c2571dcb345192fca72"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/674d783f2e80d0d7c1c86bf36dc0a09033e704de"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-pfxp-3rpf-8hx8",
-  "modified": "2026-08-10T15:33:52Z",
+  "modified": "2026-10-21T15:40:49Z",
   "published": "2026-08-10T15:33:50Z",
   "aliases": [
     "CVE-2026-68418"
@@ -20,7 +20,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/ad68e0b759f9569f0dfea84f035c91eadb979802"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/b9b0889071569d43623c260074e159cd8f26adb1"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/d52ff592abfcd56234f266aa245c489f70b1c554"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-2885-rcqv-3jp6",
-  "modified": "2026-09-07T18:31:31Z",
+  "modified": "2026-10-21T15:40:40Z",
   "published": "2026-06-26T21:32:17Z",
   "aliases": [
     "CVE-2026-53313"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53313"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/1cad9afbb2d559b738b83c498f9c1abdfd327e7f"
     },
     {
       "type": "WEB",

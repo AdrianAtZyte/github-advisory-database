@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rm22-rvmg-2466",
-  "modified": "2026-09-17T18:32:12Z",
+  "modified": "2026-10-21T15:41:29Z",
   "published": "2026-09-17T18:32:12Z",
   "aliases": [
     "CVE-2026-93150"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93150"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/642648fa7595241e4d491add5007bc33f11defb5"
     },
     {
       "type": "WEB",

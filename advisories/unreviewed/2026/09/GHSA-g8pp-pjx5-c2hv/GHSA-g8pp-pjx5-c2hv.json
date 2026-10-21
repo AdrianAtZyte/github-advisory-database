@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-g8pp-pjx5-c2hv",
-  "modified": "2026-09-21T15:31:43Z",
+  "modified": "2026-10-21T15:41:18Z",
   "published": "2026-09-16T12:30:46Z",
   "aliases": [
     "CVE-2026-90045"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/7411de0ce3b45286de1de82526795658ea6eacb0"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/aee2fde0f39e2b667084f4d5cc323a5c5543d733"
     },
     {
       "type": "WEB",

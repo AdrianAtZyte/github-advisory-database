@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-cjx2-56hv-4vc4",
-  "modified": "2026-10-03T12:31:07Z",
+  "modified": "2026-10-21T15:41:15Z",
   "published": "2026-09-16T12:30:43Z",
   "aliases": [
     "CVE-2026-89972"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/0d4735418512ef825176726eaaa8bd6a35f6b46d"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3868476cd39161f18720582df17a1b621e805b5d"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-q4hh-8fm2-f5vw",
-  "modified": "2026-08-17T06:33:03Z",
+  "modified": "2026-10-21T15:40:50Z",
   "published": "2026-08-15T06:32:08Z",
   "aliases": [
     "CVE-2026-68471"
@@ -18,6 +18,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-68471"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/181b46e76a218e9345ed7c4cf59dfa69278e4a06"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/22941b5c5c46e61a7053e5f32f260f2bc39da617"
     },
     {
       "type": "WEB",

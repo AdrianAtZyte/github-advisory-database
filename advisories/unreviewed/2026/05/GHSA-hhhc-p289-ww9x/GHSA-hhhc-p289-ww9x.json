@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-hhhc-p289-ww9x",
-  "modified": "2026-05-15T18:30:30Z",
+  "modified": "2026-10-21T15:40:27Z",
   "published": "2026-05-08T15:31:23Z",
   "aliases": [
     "CVE-2026-43325"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/c0b3fa5e0eaecd38e6a9f8f78e86f468fbde719a"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/c0e380109984e5499b969230131a3e80efc1613f"
     }
   ],
   "database_specific": {

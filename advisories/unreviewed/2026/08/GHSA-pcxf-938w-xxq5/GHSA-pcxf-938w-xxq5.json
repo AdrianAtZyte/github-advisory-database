@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-pcxf-938w-xxq5",
-  "modified": "2026-08-10T15:33:39Z",
+  "modified": "2026-10-21T15:40:46Z",
   "published": "2026-08-10T15:33:39Z",
   "aliases": [
     "CVE-2026-68185"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-68185"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/1d0b99ef7fcb6cef1df273872059bf854814500e"
     },
     {
       "type": "WEB",

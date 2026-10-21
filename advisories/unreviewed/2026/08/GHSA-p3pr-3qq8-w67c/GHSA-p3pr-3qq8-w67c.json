@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-p3pr-3qq8-w67c",
-  "modified": "2026-08-19T09:31:22Z",
+  "modified": "2026-10-21T15:40:51Z",
   "published": "2026-08-15T06:32:15Z",
   "aliases": [
     "CVE-2026-72203"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-72203"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/6626fb859f4c4772f2f59751d23937716e03f98f"
     },
     {
       "type": "WEB",

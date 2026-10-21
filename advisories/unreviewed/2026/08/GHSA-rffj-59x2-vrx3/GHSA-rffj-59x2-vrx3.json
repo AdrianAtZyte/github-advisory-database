@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rffj-59x2-vrx3",
-  "modified": "2026-08-15T06:32:21Z",
+  "modified": "2026-10-21T15:40:52Z",
   "published": "2026-08-15T06:32:20Z",
   "aliases": [
     "CVE-2026-72341"
@@ -16,6 +16,10 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/268869794170af37727816ad02051808adb9c9c3"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/5a799714e8ca0bce9ea40694f49914cf1adbbaa9"
     },
     {
@@ -25,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/815515ec68f527ca755cb1e2c1ff9148f6b3ea56"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/acd34d24342a28794e706ce8191ca6c3114a38ae"
     }
   ],
   "database_specific": {

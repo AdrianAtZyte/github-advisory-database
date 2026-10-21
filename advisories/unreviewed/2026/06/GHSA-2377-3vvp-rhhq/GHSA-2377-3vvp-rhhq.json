@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-2377-3vvp-rhhq",
-  "modified": "2026-10-15T12:30:36Z",
+  "modified": "2026-10-21T15:40:38Z",
   "published": "2026-06-24T18:32:47Z",
   "aliases": [
     "CVE-2026-53108"
@@ -22,6 +22,14 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/09207dc57ab4cb8967e6cad55a37e15ff8523d41"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/5c8dd49f4a857aa40c4a8694930509d159feae24"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/6f571bf37da84ab822bf22341d48655312aaee20"
     },
     {
       "type": "WEB",

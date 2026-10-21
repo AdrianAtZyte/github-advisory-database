@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rmmh-jvpf-4wxx",
-  "modified": "2026-09-18T18:31:29Z",
+  "modified": "2026-10-21T15:41:22Z",
   "published": "2026-09-17T18:32:00Z",
   "aliases": [
     "CVE-2026-90308"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-90308"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/233f1b7fe2980e4e238fe03dd3ceddfd082cb4c8"
     },
     {
       "type": "WEB",

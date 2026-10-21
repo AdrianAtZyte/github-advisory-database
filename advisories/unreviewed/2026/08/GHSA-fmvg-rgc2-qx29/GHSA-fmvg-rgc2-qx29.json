@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-fmvg-rgc2-qx29",
-  "modified": "2026-08-25T06:31:28Z",
+  "modified": "2026-10-21T15:40:59Z",
   "published": "2026-08-22T18:30:29Z",
   "aliases": [
     "CVE-2026-74697"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/7aee22a35978b44784612c156e358e375ddf5d16"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/927e2617a36f49752cb5613900ca21f40593f07d"
     },
     {
       "type": "WEB",

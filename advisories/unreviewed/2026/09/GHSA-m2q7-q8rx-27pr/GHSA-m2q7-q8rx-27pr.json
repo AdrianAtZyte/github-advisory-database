@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-m2q7-q8rx-27pr",
-  "modified": "2026-09-17T18:31:51Z",
+  "modified": "2026-10-21T15:41:19Z",
   "published": "2026-09-17T18:31:50Z",
   "aliases": [
     "CVE-2026-90097"
@@ -20,7 +20,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/4cc1ba2b31065a48fde14e9d53ad399a3ca32e35"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/aa17842bbccaeaba7d05c166019d1c96a41bca54"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/ca1f4a926d08035c52c735a42200e4e5ea548f32"
     },
     {
       "type": "WEB",

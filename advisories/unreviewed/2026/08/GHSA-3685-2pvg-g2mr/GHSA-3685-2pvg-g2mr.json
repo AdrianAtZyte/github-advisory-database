@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-3685-2pvg-g2mr",
-  "modified": "2026-08-15T06:32:32Z",
+  "modified": "2026-10-21T15:40:57Z",
   "published": "2026-08-15T06:32:32Z",
   "aliases": [
     "CVE-2026-74386"
@@ -29,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/ba3209704b3cd46961e4e081af5c52a780785648"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/fc11e3f0daaadb6e600a86e54b089d4662d0a464"
     }
   ],
   "database_specific": {

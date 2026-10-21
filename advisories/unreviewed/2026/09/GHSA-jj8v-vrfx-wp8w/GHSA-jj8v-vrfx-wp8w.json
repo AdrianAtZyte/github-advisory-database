@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-jj8v-vrfx-wp8w",
-  "modified": "2026-09-13T09:32:17Z",
+  "modified": "2026-10-21T15:41:07Z",
   "published": "2026-09-11T21:31:30Z",
   "aliases": [
     "CVE-2026-89526"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/3779b7b9e7d1c8ba4738f9d327de3b0288cefe9b"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3861eeabaebe243050952b34063763527c44e1fe"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-mvhp-248j-7g76",
-  "modified": "2026-06-28T09:31:37Z",
+  "modified": "2026-10-21T15:40:36Z",
   "published": "2026-06-24T18:32:42Z",
   "aliases": [
     "CVE-2026-52983"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/ded2694247a55a16d0ebbe2d6f9139305c21457a"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/fcd6a3bb48bb661876c2743e89f0a6567f5cea2c"
     }
   ],
   "database_specific": {

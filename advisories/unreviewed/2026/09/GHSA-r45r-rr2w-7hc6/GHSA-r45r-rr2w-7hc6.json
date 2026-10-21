@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-r45r-rr2w-7hc6",
-  "modified": "2026-09-25T06:30:30Z",
+  "modified": "2026-10-21T15:41:33Z",
   "published": "2026-09-24T18:31:30Z",
   "aliases": [
     "CVE-2026-93817"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93817"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/1d8e1e99b063de4179cc8af14d08115d74a37abf"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-fpgw-998r-pg47",
-  "modified": "2026-08-29T09:30:27Z",
+  "modified": "2026-10-21T15:41:05Z",
   "published": "2026-08-28T09:31:48Z",
   "aliases": [
     "CVE-2026-80668"
@@ -18,6 +18,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-80668"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/02f7809a19fc88cfd9bc113a4bfe7add6305db39"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3d7b808ec35291ee75dcdb2b6fe5f587bfe9b1df"
     },
     {
       "type": "WEB",

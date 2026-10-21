@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-w8vj-mr98-9j85",
-  "modified": "2026-06-24T18:32:29Z",
+  "modified": "2026-10-21T15:40:30Z",
   "published": "2026-05-27T15:33:17Z",
   "aliases": [
     "CVE-2026-45943"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-45943"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/237e0524a53812706e4cad30f40ef6c3213a2a92"
     },
     {
       "type": "WEB",

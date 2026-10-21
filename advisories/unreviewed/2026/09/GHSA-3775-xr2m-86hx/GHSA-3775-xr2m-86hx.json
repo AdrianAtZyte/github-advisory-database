@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-3775-xr2m-86hx",
-  "modified": "2026-09-17T18:32:13Z",
+  "modified": "2026-10-21T15:41:28Z",
   "published": "2026-09-17T18:32:13Z",
   "aliases": [
     "CVE-2026-93172"
@@ -25,6 +25,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/4cc5caef9a8d1894dfa31d84a0daa0ac1437dadc"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/4dda09e7ca0bf0c3fa7c5c8f134d9804b67f455c"
     },
     {
       "type": "WEB",

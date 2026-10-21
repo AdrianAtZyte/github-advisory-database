@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-6qjr-4f2g-wppr",
-  "modified": "2026-09-17T18:31:51Z",
+  "modified": "2026-10-21T15:41:19Z",
   "published": "2026-09-17T18:31:51Z",
   "aliases": [
     "CVE-2026-90109"
@@ -25,6 +25,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/8b2d8c70b969bf84f9e248bfaf2a7135129f2eb6"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/c5ca77024812563fe15c4f7aa906791c3683e9fd"
     },
     {
       "type": "WEB",

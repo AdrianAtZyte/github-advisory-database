@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-8w4v-ph57-xf5x",
-  "modified": "2026-10-15T12:30:50Z",
+  "modified": "2026-10-21T15:41:26Z",
   "published": "2026-09-17T18:32:04Z",
   "aliases": [
     "CVE-2026-90409"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-90409"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/276753aaad65e6f7dac7989a600c1c2d3a382c1a"
     },
     {
       "type": "WEB",

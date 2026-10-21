@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-9gw4-rc8j-j633",
-  "modified": "2026-09-08T15:31:27Z",
+  "modified": "2026-10-21T15:40:46Z",
   "published": "2026-07-25T12:31:33Z",
   "aliases": [
     "CVE-2026-64377"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-64377"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/0f012938f21302c08153589c1aca0283f8d6911d"
     },
     {
       "type": "WEB",

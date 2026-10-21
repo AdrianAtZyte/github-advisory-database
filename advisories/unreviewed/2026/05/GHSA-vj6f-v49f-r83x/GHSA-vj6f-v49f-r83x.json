@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-vj6f-v49f-r83x",
-  "modified": "2026-10-15T12:30:34Z",
+  "modified": "2026-10-21T15:40:26Z",
   "published": "2026-05-06T12:30:28Z",
   "aliases": [
     "CVE-2026-43115"
@@ -18,6 +18,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-43115"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/20b98d9ffb09763048a7c84b47403eb0f177272c"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/2127e6b79d9d579ea538a350d1bbe859e39814d5"
     },
     {
       "type": "WEB",

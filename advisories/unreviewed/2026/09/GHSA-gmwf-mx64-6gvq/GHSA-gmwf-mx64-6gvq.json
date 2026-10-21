@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-gmwf-mx64-6gvq",
-  "modified": "2026-10-03T12:31:05Z",
+  "modified": "2026-10-21T15:41:05Z",
   "published": "2026-09-11T21:31:20Z",
   "aliases": [
     "CVE-2026-80935"
@@ -26,6 +26,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/388f471ca4758f644394b681ce97677a4d0e772c"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/4892be1ef0bbe6db6b13bf46cb79b6706bb5b214"
     },
     {
       "type": "WEB",

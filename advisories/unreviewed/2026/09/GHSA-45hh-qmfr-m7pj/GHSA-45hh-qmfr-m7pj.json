@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-45hh-qmfr-m7pj",
-  "modified": "2026-09-17T18:31:54Z",
+  "modified": "2026-10-21T15:41:21Z",
   "published": "2026-09-17T18:31:54Z",
   "aliases": [
     "CVE-2026-90187"
@@ -17,6 +17,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/056be41932c95aabdb3c2967d1ef4978f17a0225"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/08a31a2cc3d1cea67ccd292d01511cd0a72d4656"
     },
     {
       "type": "WEB",

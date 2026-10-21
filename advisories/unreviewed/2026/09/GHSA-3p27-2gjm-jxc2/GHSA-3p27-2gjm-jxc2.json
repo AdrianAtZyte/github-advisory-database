@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-3p27-2gjm-jxc2",
-  "modified": "2026-10-15T12:30:49Z",
+  "modified": "2026-10-21T15:41:21Z",
   "published": "2026-09-17T18:31:54Z",
   "aliases": [
     "CVE-2026-90182"
@@ -13,6 +13,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-90182"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/6b59f976db5def818829fc1eb4efc0a5c8c2f0cf"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/8b4d0b1b3079bbe9a5366e2c8020eb22926733b6"
     },
     {
       "type": "WEB",

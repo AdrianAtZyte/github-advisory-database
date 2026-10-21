@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-33r9-vmmw-q268",
-  "modified": "2026-08-17T06:33:42Z",
+  "modified": "2026-10-21T15:40:57Z",
   "published": "2026-08-15T06:32:32Z",
   "aliases": [
     "CVE-2026-74385"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/22aa70f9a0544643ec37d442b6fcb1833d804462"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/41b63ff99e3ef37d08f3693413dae5ede5e79fe1"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-m843-78wr-m386",
-  "modified": "2026-09-13T09:32:26Z",
+  "modified": "2026-10-21T15:41:09Z",
   "published": "2026-09-11T21:31:35Z",
   "aliases": [
     "CVE-2026-89647"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/5a541eb401acb89d791da41189d7a79220164b93"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/dd2e9824e5e7dba406005ff779a107f773175a76"
     },
     {
       "type": "WEB",

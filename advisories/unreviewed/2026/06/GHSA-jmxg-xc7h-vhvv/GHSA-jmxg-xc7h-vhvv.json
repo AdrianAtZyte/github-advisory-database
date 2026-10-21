@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-jmxg-xc7h-vhvv",
-  "modified": "2026-07-24T00:32:31Z",
+  "modified": "2026-10-21T15:40:39Z",
   "published": "2026-06-24T18:32:48Z",
   "aliases": [
     "CVE-2026-53118"
@@ -18,6 +18,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53118"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/4005cb89139f7c9af85046b241dcf3fa2e1b3559"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/4eab1a74a498f0bf19f102f9362e9deef9307aea"
     },
     {
       "type": "WEB",

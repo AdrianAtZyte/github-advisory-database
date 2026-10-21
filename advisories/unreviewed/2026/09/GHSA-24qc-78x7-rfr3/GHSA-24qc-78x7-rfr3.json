@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-24qc-78x7-rfr3",
-  "modified": "2026-10-15T12:30:49Z",
+  "modified": "2026-10-21T15:41:22Z",
   "published": "2026-09-17T18:31:58Z",
   "aliases": [
     "CVE-2026-90273"
@@ -20,7 +20,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/26f9e89bad5a7e3005d3dc97a2e2fa6d6b2b8bb6"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/7e4f2702bbadbde887a5d8897297720a7f037ee5"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/ba63c62d4252f6bc58fd2a567075c72d03332562"
     },
     {
       "type": "WEB",

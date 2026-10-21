@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-q4jf-gp35-367g",
-  "modified": "2026-07-04T12:30:28Z",
+  "modified": "2026-10-21T15:40:38Z",
   "published": "2026-06-24T18:32:45Z",
   "aliases": [
     "CVE-2026-53070"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/790093245e35040c2adb15f48970020425aa3f47"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/7f0062c40781fe0a340965f5bb0816681982ff4c"
     },
     {
       "type": "WEB",

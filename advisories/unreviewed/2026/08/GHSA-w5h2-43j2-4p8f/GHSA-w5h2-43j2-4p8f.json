@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-w5h2-43j2-4p8f",
-  "modified": "2026-10-15T12:30:42Z",
+  "modified": "2026-10-21T15:40:57Z",
   "published": "2026-08-15T06:32:31Z",
   "aliases": [
     "CVE-2026-74373"
@@ -13,6 +13,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-74373"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/235d16ae715104b981a4fbc9434398e3816773b1"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/91d0fc000d8cc40fcb4285e6160dd1ce98c56201"
     },
     {
       "type": "WEB",

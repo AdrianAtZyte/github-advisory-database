@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-pmpx-w3f2-x2vp",
-  "modified": "2026-05-08T18:31:26Z",
+  "modified": "2026-10-21T15:40:24Z",
   "published": "2026-05-06T12:30:29Z",
   "aliases": [
     "CVE-2026-43127"
@@ -25,11 +25,19 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/76016d15bbd90caa0ce7765fddf9bde8e943e601"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/b014372b62237521444ee51384549bdf48b79015"
     },
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/b8d22d9d8260b0f4f4d8e2898c98037c9982ea66"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/d60f09d2d16c44a797d8cb67015cde2508720506"
     }
   ],
   "database_specific": {

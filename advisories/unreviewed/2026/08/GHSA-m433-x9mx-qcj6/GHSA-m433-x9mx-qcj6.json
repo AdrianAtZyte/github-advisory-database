@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-m433-x9mx-qcj6",
-  "modified": "2026-08-14T00:31:58Z",
+  "modified": "2026-10-21T15:40:49Z",
   "published": "2026-08-12T03:31:16Z",
   "aliases": [
     "CVE-2026-68447"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-68447"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/1218c6dcec80f886372635e82f3229d5babc37d3"
     },
     {
       "type": "WEB",

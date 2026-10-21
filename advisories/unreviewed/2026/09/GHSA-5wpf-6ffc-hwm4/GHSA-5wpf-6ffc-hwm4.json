@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-5wpf-6ffc-hwm4",
-  "modified": "2026-09-21T15:31:37Z",
+  "modified": "2026-10-21T15:41:12Z",
   "published": "2026-09-11T21:31:37Z",
   "aliases": [
     "CVE-2026-89717"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/5cec3e60e9f2d1324179df3aa91656f90095cf8f"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/a5fda7def04d98ab7c5cbb2394714fb1f8c56cb5"
     },
     {
       "type": "WEB",

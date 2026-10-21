@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-q2v7-328v-qfqj",
-  "modified": "2026-10-15T12:30:52Z",
+  "modified": "2026-10-21T15:41:29Z",
   "published": "2026-09-17T18:32:12Z",
   "aliases": [
     "CVE-2026-93148"
@@ -18,6 +18,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-93148"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/90d36e825da4fadeede64784ceda975ab7b31dab"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/94033c193bc38794511b2ebfa3dc0287d3b2bf60"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-pw6x-273j-mp83",
-  "modified": "2026-07-08T18:31:32Z",
+  "modified": "2026-10-21T15:40:39Z",
   "published": "2026-06-25T09:31:22Z",
   "aliases": [
     "CVE-2026-53258"
@@ -21,7 +21,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/87484866cae9130b97c2b356eeaea4f47b292f75"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/a24134ddc18b4d440714365637d440b7121447b9"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/df44397bbd8f3a38115c9590b686787e4aaf6327"
     },
     {
       "type": "WEB",

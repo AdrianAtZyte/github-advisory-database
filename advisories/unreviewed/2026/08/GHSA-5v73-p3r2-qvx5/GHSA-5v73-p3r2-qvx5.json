@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-5v73-p3r2-qvx5",
-  "modified": "2026-10-15T12:30:40Z",
+  "modified": "2026-10-21T15:40:49Z",
   "published": "2026-08-12T00:31:12Z",
   "aliases": [
     "CVE-2026-68441"
@@ -13,6 +13,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-68441"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/636658e50b5c6a2c93413a9fa6d9da768dbfdaf2"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/98ca831065c4d20baf97dc9e232777dc47a2b923"
     },
     {
       "type": "WEB",

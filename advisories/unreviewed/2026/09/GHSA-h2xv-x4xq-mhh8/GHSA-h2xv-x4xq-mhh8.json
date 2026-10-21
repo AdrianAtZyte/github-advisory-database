@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-h2xv-x4xq-mhh8",
-  "modified": "2026-10-15T12:30:45Z",
+  "modified": "2026-10-21T15:41:07Z",
   "published": "2026-09-11T21:31:30Z",
   "aliases": [
     "CVE-2026-89527"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-89527"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/2e35ec558b8cece9399a50141ecaeadbdb8768dc"
     },
     {
       "type": "WEB",

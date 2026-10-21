@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-xrq7-rc4j-2cmm",
-  "modified": "2026-09-16T15:30:58Z",
+  "modified": "2026-10-21T15:41:13Z",
   "published": "2026-09-16T12:30:37Z",
   "aliases": [
     "CVE-2026-89810"
@@ -18,6 +18,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-89810"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/44cad7ea3532f14999008d899daacc4ce4b633bf"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/872b7427e64f3e84b16c62577cbf3cd09a3401a2"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-p6rq-qpqh-5f25",
-  "modified": "2026-10-15T12:30:44Z",
+  "modified": "2026-10-21T15:41:00Z",
   "published": "2026-08-22T18:30:30Z",
   "aliases": [
     "CVE-2026-74733"
@@ -18,6 +18,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-74733"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/41255e64eb9dd87b0b8675f4e47a9c67bcef6e39"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/5d05c4252c09ce10624be2197853c80bf87424e4"
     },
     {
       "type": "WEB",

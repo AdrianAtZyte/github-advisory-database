@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-mjfm-6cr9-5cqx",
-  "modified": "2026-09-14T15:32:12Z",
+  "modified": "2026-10-21T15:40:38Z",
   "published": "2026-06-24T18:32:46Z",
   "aliases": [
     "CVE-2026-53091"
@@ -42,6 +42,14 @@
     {
       "type": "WEB",
       "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2492270"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/5895cfc76924a629c6eaa5e5f049de642860045f"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/7564dc804d8289d2e5c6edb8173754051b71bff4"
     },
     {
       "type": "WEB",

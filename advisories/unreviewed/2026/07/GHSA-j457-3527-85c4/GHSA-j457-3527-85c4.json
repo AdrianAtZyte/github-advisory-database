@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-j457-3527-85c4",
-  "modified": "2026-10-13T15:31:29Z",
+  "modified": "2026-10-21T15:40:42Z",
   "published": "2026-07-19T18:31:48Z",
   "aliases": [
     "CVE-2026-63998"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-63998"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/170d82a57f4be1ce83de823a93bafd218a0d5fb1"
     },
     {
       "type": "WEB",

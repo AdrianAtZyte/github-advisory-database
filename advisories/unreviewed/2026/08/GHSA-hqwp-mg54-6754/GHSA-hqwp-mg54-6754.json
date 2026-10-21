@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-hqwp-mg54-6754",
-  "modified": "2026-08-17T06:33:51Z",
+  "modified": "2026-10-21T15:40:58Z",
   "published": "2026-08-15T15:30:35Z",
   "aliases": [
     "CVE-2026-74538"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-74538"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/0e830354c120954ccb9ca15880245912722c4031"
     },
     {
       "type": "WEB",

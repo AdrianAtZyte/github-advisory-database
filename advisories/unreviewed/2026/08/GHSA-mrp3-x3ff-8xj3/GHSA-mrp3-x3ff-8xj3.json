@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-mrp3-x3ff-8xj3",
-  "modified": "2026-08-14T00:31:57Z",
+  "modified": "2026-10-21T15:40:48Z",
   "published": "2026-08-10T15:33:49Z",
   "aliases": [
     "CVE-2026-68393"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/38326774df6198df0cc2744cc73bf77cb741c538"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3f98e7f38e1bb761a9964a8851f9c08e9c23b3dd"
     },
     {
       "type": "WEB",

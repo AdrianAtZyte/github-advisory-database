@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rf75-rpf7-p84g",
-  "modified": "2026-09-11T21:31:39Z",
+  "modified": "2026-10-21T15:41:13Z",
   "published": "2026-09-11T21:31:39Z",
   "aliases": [
     "CVE-2026-89757"
@@ -20,7 +20,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/49193dac48d30eee2a21da88a7262d52a7feefae"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/54a58d6656dd403b686b247f0bad8507cbfb45df"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/b1d7c69e6c7d3ec47513b911ce7529e56d183dad"
     },
     {
       "type": "WEB",

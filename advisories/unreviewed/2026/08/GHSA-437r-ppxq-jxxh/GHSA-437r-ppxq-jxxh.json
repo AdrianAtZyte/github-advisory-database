@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-437r-ppxq-jxxh",
-  "modified": "2026-08-17T06:33:50Z",
+  "modified": "2026-10-21T15:40:58Z",
   "published": "2026-08-15T15:30:34Z",
   "aliases": [
     "CVE-2026-74506"
@@ -26,6 +26,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/c0d3b81f703b2a9e37fe1347610a50cdf0078c27"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/cbb0d3da042c01082f40166fdc99bf1752db72be"
     },
     {
       "type": "WEB",

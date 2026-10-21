@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-m2xr-rm39-xmjv",
-  "modified": "2026-07-23T21:30:34Z",
+  "modified": "2026-10-21T15:40:38Z",
   "published": "2026-06-24T18:32:47Z",
   "aliases": [
     "CVE-2026-53104"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53104"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3c363fc4dbdb77a3f02dcf6ba90c1f0a111ef055"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-gpr4-rp6h-2879",
-  "modified": "2026-09-16T15:31:01Z",
+  "modified": "2026-10-21T15:41:14Z",
   "published": "2026-09-16T12:30:41Z",
   "aliases": [
     "CVE-2026-89906"
@@ -25,7 +25,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/50fbc294e4e96246d60cd66f98acf043a362e3a0"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/882b8912b7e92341fdb115ba0e2e5142a28684ff"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/89819868cde78cb2f748533785a46a3430873f20"
     },
     {
       "type": "WEB",

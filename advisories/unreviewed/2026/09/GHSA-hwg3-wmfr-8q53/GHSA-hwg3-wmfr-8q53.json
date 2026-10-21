@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-hwg3-wmfr-8q53",
-  "modified": "2026-10-15T12:30:46Z",
+  "modified": "2026-10-21T15:41:09Z",
   "published": "2026-09-11T21:31:35Z",
   "aliases": [
     "CVE-2026-89654"
@@ -22,6 +22,14 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/21d5be092d947f8d83f76f7ebf3989e7e9230a98"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/352a278d5a1965aae3f817ce5d24a67ee42d45d1"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/820871e9dbeecd2533c4c5f5d91878ceaf02324c"
     },
     {
       "type": "WEB",

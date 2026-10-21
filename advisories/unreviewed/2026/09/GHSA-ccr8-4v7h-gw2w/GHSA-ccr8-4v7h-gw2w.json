@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-ccr8-4v7h-gw2w",
-  "modified": "2026-09-13T09:32:19Z",
+  "modified": "2026-10-21T15:41:08Z",
   "published": "2026-09-11T21:31:32Z",
   "aliases": [
     "CVE-2026-89574"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-89574"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/0e3b8f371c385c212b6e6f76c66f5b3f5bcfea62"
     },
     {
       "type": "WEB",

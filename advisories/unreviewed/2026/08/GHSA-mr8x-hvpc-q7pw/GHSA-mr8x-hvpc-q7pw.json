@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-mr8x-hvpc-q7pw",
-  "modified": "2026-10-15T12:30:42Z",
+  "modified": "2026-10-21T15:40:57Z",
   "published": "2026-08-15T06:32:31Z",
   "aliases": [
     "CVE-2026-74374"
@@ -29,7 +29,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/80eaeae0e4b1ed2418fd2b9088238651fb51df69"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/811545e0926d02a6a0b1a1258bb5544777c164d4"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/8719aa0f57955fd641f952d16e02fc6b4934c6e3"
     }
   ],
   "database_specific": {

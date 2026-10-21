@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-fgxj-vfg7-cpqq",
-  "modified": "2026-09-09T15:34:37Z",
+  "modified": "2026-10-21T15:40:40Z",
   "published": "2026-06-25T09:31:23Z",
   "aliases": [
     "CVE-2026-53277"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://bugzilla.redhat.com/show_bug.cgi?id=2492725"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/0648b375aa951cc15d9e90f9ac4de71e0b51fa45"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-8hmx-j653-mwq6",
-  "modified": "2026-09-13T09:32:27Z",
+  "modified": "2026-10-21T15:41:10Z",
   "published": "2026-09-11T21:31:36Z",
   "aliases": [
     "CVE-2026-89686"
@@ -34,6 +34,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/ca94ba36172046be6a694a7986f6931e47ed4d51"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/d12af460df27876661707efab3a8532146cb961f"
     }
   ],
   "database_specific": {

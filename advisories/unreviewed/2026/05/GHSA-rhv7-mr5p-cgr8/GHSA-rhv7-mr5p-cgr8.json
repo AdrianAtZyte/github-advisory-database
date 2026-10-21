@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rhv7-mr5p-cgr8",
-  "modified": "2026-06-24T18:32:28Z",
+  "modified": "2026-10-21T15:40:29Z",
   "published": "2026-05-27T15:33:16Z",
   "aliases": [
     "CVE-2026-45917"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/024eb0bd19f507e6e7f0c7a7e5506d66b5dc1d3e"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/11d35b11013442576f35fd9e8a8fc16155101906"
     },
     {
       "type": "WEB",

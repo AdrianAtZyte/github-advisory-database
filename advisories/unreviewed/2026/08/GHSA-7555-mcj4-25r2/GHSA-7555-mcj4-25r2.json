@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-7555-mcj4-25r2",
-  "modified": "2026-08-14T00:31:54Z",
+  "modified": "2026-10-21T15:40:47Z",
   "published": "2026-08-10T15:33:45Z",
   "aliases": [
     "CVE-2026-68293"
@@ -34,6 +34,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/88b2a16ddac3357e3f1d528e758b51e2c945d546"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/c8a4acc19dcdc83e1303c29d9535e5c99415a2e3"
     }
   ],
   "database_specific": {

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rghx-9889-ffmw",
-  "modified": "2026-09-18T18:31:28Z",
+  "modified": "2026-10-21T15:41:21Z",
   "published": "2026-09-17T18:31:57Z",
   "aliases": [
     "CVE-2026-90240"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-90240"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3eb6ad14ef359e426cff14942e220de101cdbe84"
     },
     {
       "type": "WEB",

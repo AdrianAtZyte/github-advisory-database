@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-vcg7-gx5w-x44c",
-  "modified": "2026-05-08T15:31:16Z",
+  "modified": "2026-10-21T15:40:25Z",
   "published": "2026-05-06T12:30:32Z",
   "aliases": [
     "CVE-2026-43185"
@@ -25,7 +25,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/56eab82fa6fb5ca024b0514e249d40d9b23ee5a7"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/6b4f875aac344cdd52a1f34cc70ed2f874a65757"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/a110dbe928561d440e9e117d17331139a0bedace"
     },
     {
       "type": "WEB",

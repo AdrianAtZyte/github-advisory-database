@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-gvrm-xh5g-w8v6",
-  "modified": "2026-06-28T09:31:45Z",
+  "modified": "2026-10-21T15:40:39Z",
   "published": "2026-06-25T09:31:21Z",
   "aliases": [
     "CVE-2026-53229"
@@ -26,6 +26,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/2789b74ae1f4b68333c9d5eec2f3354d07b16e61"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3bad189a31eb78575ea69f093e8ef5b7e3e8c832"
     },
     {
       "type": "WEB",

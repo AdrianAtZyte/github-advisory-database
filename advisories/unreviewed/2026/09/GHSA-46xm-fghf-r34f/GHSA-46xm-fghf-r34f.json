@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-46xm-fghf-r34f",
-  "modified": "2026-10-03T12:31:16Z",
+  "modified": "2026-10-21T15:41:35Z",
   "published": "2026-09-25T12:31:23Z",
   "aliases": [
     "CVE-2026-97537"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97537"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/2e6f60adf609c77e828f64e0cd371920bef91c12"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-4ppx-vw73-jjc6",
-  "modified": "2026-10-15T12:30:51Z",
+  "modified": "2026-10-21T15:41:28Z",
   "published": "2026-09-17T18:32:06Z",
   "aliases": [
     "CVE-2026-92503"
@@ -24,7 +24,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/29a2a166450a3e89f61a486033b10cf170fde8b0"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/7720fddd1fe344d14be258a2028f74ebf1569511"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/d3b19b318e0e0483180d15f1d9f5e807a1fb59d5"
     }
   ],
   "database_specific": {

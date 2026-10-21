@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rpwr-33rh-mw75",
-  "modified": "2026-09-25T12:31:27Z",
+  "modified": "2026-10-21T15:41:36Z",
   "published": "2026-09-25T12:31:27Z",
   "aliases": [
     "CVE-2026-97616"
@@ -17,6 +17,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/048617743febf6530111cfb594e9bbbd7918bf67"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/1b5730a1c7def8993b3feba764008d1ff5c9dcea"
     },
     {
       "type": "WEB",

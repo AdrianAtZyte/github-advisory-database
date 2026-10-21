@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-mrmg-jqr4-hg37",
-  "modified": "2026-09-11T21:31:20Z",
+  "modified": "2026-10-21T15:41:06Z",
   "published": "2026-09-11T21:31:20Z",
   "aliases": [
     "CVE-2026-80948"
@@ -16,7 +16,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/2d593f32efa9ff1c91c508f45eb709c03dfb4945"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/67105abd6195a685a84dcb8a5daf54a1f4bfdb60"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/7be73911d979bb0f54485c2292043a5703fdc953"
     },
     {
       "type": "WEB",

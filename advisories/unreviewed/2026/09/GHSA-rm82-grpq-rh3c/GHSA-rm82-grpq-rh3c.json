@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rm82-grpq-rh3c",
-  "modified": "2026-09-25T12:31:28Z",
+  "modified": "2026-10-21T15:41:36Z",
   "published": "2026-09-25T12:31:27Z",
   "aliases": [
     "CVE-2026-97908"
@@ -25,6 +25,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/962dcc1d8a52e64428cae07806e7f6b8d3ec6ac0"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/aaa7f676418e1eb2c4ef0d4e4b07812b25e7b404"
     },
     {
       "type": "WEB",

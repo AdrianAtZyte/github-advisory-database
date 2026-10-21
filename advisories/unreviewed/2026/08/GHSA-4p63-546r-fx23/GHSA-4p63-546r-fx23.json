@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-4p63-546r-fx23",
-  "modified": "2026-10-15T12:30:39Z",
+  "modified": "2026-10-21T15:40:47Z",
   "published": "2026-08-10T15:33:45Z",
   "aliases": [
     "CVE-2026-68291"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/237f1f7653b8729169af11fae79f01b90d00b87e"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/993571d207f5f4775b92df89788570468ffb9cdd"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-xvmg-v5vr-xr53",
-  "modified": "2026-09-17T18:32:03Z",
+  "modified": "2026-10-21T15:41:25Z",
   "published": "2026-09-17T18:32:03Z",
   "aliases": [
     "CVE-2026-90374"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/2243778a5fae8329ab5f18e7adcd7e03b911a1b7"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/493a029c205a994644327d554f0cfeb9651aba7c"
     },
     {
       "type": "WEB",

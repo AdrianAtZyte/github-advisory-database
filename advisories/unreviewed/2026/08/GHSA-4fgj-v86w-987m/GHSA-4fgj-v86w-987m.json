@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-4fgj-v86w-987m",
-  "modified": "2026-08-12T00:31:12Z",
+  "modified": "2026-10-21T15:40:49Z",
   "published": "2026-08-12T00:31:12Z",
   "aliases": [
     "CVE-2026-68435"
@@ -16,6 +16,10 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3b71f51fa3a247921408879eab2ddee82da8a980"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/485ed44db5694d8d2e5027f63ad608e705286f30"
     },
     {
@@ -25,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/a94d6726ec8680a2b0c453fc782a543f68a1ea06"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/eaa908d8d523b0ab75dab5ebd6662e70af5e5d7e"
     }
   ],
   "database_specific": {
