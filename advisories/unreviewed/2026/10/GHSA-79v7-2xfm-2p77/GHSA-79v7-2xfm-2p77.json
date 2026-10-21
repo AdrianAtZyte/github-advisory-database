@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-79v7-2xfm-2p77",
-  "modified": "2026-10-21T06:31:15Z",
+  "modified": "2026-10-21T12:31:05Z",
   "published": "2026-10-21T06:31:15Z",
   "aliases": [
     "CVE-2026-111949"
   ],
   "details": "The miniOrange 2FA  WordPress plugin before 6.3.1 does not prevent a pending passkey login from registering an additional passkey on an account that already has one configured, allowing an attacker who knows a user's password to add their own authenticator and bypass the second factor.",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -20,8 +25,10 @@
     }
   ],
   "database_specific": {
-    "cwe_ids": [],
-    "severity": null,
+    "cwe_ids": [
+      "CWE-287"
+    ],
+    "severity": "HIGH",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-10-21T06:16:48Z"

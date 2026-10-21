@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-cw23-46x9-m6xg",
-  "modified": "2026-10-21T06:31:15Z",
+  "modified": "2026-10-21T12:31:04Z",
   "published": "2026-10-21T06:31:15Z",
   "aliases": [
     "CVE-2026-108073"
   ],
   "details": "The SureCart  WordPress plugin before 4.9.5 does not restrict which related objects an anonymous visitor may include when reading a single upsell funnel through its REST API, nor strip private fields from those objects, allowing unauthenticated users to read merchant-private catalog data such as pricing, commission, stock, SKU and tax internals, including unpublished products.",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -20,8 +25,10 @@
     }
   ],
   "database_specific": {
-    "cwe_ids": [],
-    "severity": null,
+    "cwe_ids": [
+      "CWE-200"
+    ],
+    "severity": "MODERATE",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-10-21T06:16:47Z"

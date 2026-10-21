@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-c24q-2g88-pp57",
-  "modified": "2026-10-21T09:30:28Z",
+  "modified": "2026-10-21T12:31:03Z",
   "published": "2026-09-21T15:32:05Z",
   "aliases": [
     "CVE-2026-80110"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://access.redhat.com/errata/RHSA-2026:86621"
+    },
+    {
+      "type": "WEB",
+      "url": "https://access.redhat.com/errata/RHSA-2026:86623"
     },
     {
       "type": "WEB",

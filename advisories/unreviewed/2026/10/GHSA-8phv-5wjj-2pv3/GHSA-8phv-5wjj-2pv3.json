@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-8phv-5wjj-2pv3",
-  "modified": "2026-10-21T09:30:29Z",
+  "modified": "2026-10-21T12:31:06Z",
   "published": "2026-10-21T09:30:29Z",
   "aliases": [
     "CVE-2026-101138"
@@ -25,7 +25,9 @@
     }
   ],
   "database_specific": {
-    "cwe_ids": [],
+    "cwe_ids": [
+      "CWE-284"
+    ],
     "severity": "MODERATE",
     "github_reviewed": false,
     "github_reviewed_at": null,
