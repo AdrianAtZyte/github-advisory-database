@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-xm2x-8fhq-8hpv",
-  "modified": "2026-10-21T06:31:16Z",
+  "modified": "2026-10-21T09:30:29Z",
   "published": "2026-10-21T06:31:15Z",
   "aliases": [
     "CVE-2026-71195"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://security.openstack.org/ossa/OSSA-2026-046.html"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/10/20/18"
     }
   ],
   "database_specific": {
