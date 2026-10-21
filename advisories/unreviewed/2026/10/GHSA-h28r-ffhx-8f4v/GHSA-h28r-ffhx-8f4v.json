@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-h28r-ffhx-8f4v",
-  "modified": "2026-10-21T00:32:42Z",
+  "modified": "2026-10-21T18:33:03Z",
   "published": "2026-10-21T00:32:42Z",
   "aliases": [
     "CVE-2026-113128"
   ],
   "details": "Missing authorization in Animation in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to bypass web origin policy via a crafted HTML page. (Chromium security severity: Medium)",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -27,7 +32,7 @@
     "cwe_ids": [
       "CWE-862"
     ],
-    "severity": null,
+    "severity": "HIGH",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-10-20T22:19:04Z"
