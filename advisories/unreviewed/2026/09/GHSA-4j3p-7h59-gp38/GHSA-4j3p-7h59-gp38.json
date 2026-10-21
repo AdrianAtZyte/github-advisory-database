@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-4j3p-7h59-gp38",
-  "modified": "2026-09-25T15:31:44Z",
+  "modified": "2026-10-21T15:41:37Z",
   "published": "2026-09-25T12:31:29Z",
   "aliases": [
     "CVE-2026-97953"
@@ -18,6 +18,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97953"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/09c30547da2c45bb79f7d3adffc860af332c2d42"
     },
     {
       "type": "WEB",

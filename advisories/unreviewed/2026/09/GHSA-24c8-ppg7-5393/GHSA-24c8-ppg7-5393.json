@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-24c8-ppg7-5393",
-  "modified": "2026-10-15T12:30:54Z",
+  "modified": "2026-10-21T15:41:40Z",
   "published": "2026-09-25T12:31:34Z",
   "aliases": [
     "CVE-2026-98058"
@@ -24,7 +24,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/9496d857205e60241034b798d7745ff8830ba599"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/d05524794240b52fdc3b6c1220dd05505715824d"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/d8cfe9f71d302970ae393616960f2b3021d2b3b0"
     }
   ],
   "database_specific": {

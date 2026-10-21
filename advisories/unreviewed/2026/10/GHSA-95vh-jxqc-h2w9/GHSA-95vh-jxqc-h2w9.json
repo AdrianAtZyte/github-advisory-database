@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-95vh-jxqc-h2w9",
-  "modified": "2026-10-18T18:32:06Z",
+  "modified": "2026-10-21T15:42:01Z",
   "published": "2026-10-18T18:32:06Z",
   "aliases": [
     "CVE-2026-98851"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-98851"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/1d27214fd9a4d2c0c6d998fc9d4fb61448a3438e"
     },
     {
       "type": "WEB",

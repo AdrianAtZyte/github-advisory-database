@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-rf84-p87x-87h6",
-  "modified": "2026-10-18T18:32:06Z",
+  "modified": "2026-10-21T15:42:01Z",
   "published": "2026-10-18T18:32:06Z",
   "aliases": [
     "CVE-2026-98859"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/1f1bd9a3117f082eb891c0986c4f0e04cd974c9a"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3776f34fbce990af45978f1628d2e1adc0d67d0f"
     },
     {
       "type": "WEB",

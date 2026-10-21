@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-pfp2-jmv8-4pwj",
-  "modified": "2026-09-25T12:31:38Z",
+  "modified": "2026-10-21T15:41:42Z",
   "published": "2026-09-25T12:31:38Z",
   "aliases": [
     "CVE-2026-98148"
@@ -20,11 +20,19 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/962cdf2eedb2708eb99c25ffb56c6d6981d41ed6"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/b2cd682324b889011874cf844b7c7efa97c97296"
     },
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/cb732d027aa18e1fcf9d2797f47d20b179ebc59c"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/ce7da178f1af4e9cbac4d0440c4002785546bfb5"
     }
   ],
   "database_specific": {

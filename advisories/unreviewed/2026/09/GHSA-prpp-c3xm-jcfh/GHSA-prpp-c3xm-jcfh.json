@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-prpp-c3xm-jcfh",
-  "modified": "2026-09-25T12:31:30Z",
+  "modified": "2026-10-21T15:41:37Z",
   "published": "2026-09-25T12:31:30Z",
   "aliases": [
     "CVE-2026-97961"
@@ -29,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/e2770c76a02452fddb52e9e05c7ed6acfef06c32"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/fa360a018369f3eb4fe4f4792238adfc1f6fd5dc"
     }
   ],
   "database_specific": {

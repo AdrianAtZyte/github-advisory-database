@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-73jm-mgrc-fg99",
-  "modified": "2026-10-18T18:32:06Z",
+  "modified": "2026-10-21T15:42:01Z",
   "published": "2026-10-18T18:32:06Z",
   "aliases": [
     "CVE-2026-98862"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/88633025f20ba9c32ccdb3efc86eafdf98cb825c"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/9aee3caeff4dd4126d84f67607b95cec8719b867"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-798g-xwjp-798r",
-  "modified": "2026-10-18T18:32:05Z",
+  "modified": "2026-10-21T15:42:00Z",
   "published": "2026-10-18T18:32:05Z",
   "aliases": [
     "CVE-2026-98838"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/0ee53081425a1a31ce15089012cd96b8353eb44e"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/2fc4e71aefab57c80ccc9775aad2af503fc90810"
     },
     {
       "type": "WEB",

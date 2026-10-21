@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-jx7q-xjrp-x794",
-  "modified": "2026-10-03T12:31:19Z",
+  "modified": "2026-10-21T15:41:36Z",
   "published": "2026-09-25T12:31:27Z",
   "aliases": [
     "CVE-2026-97615"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97615"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/260f99b355a44f6ce67971ebc9223b22c8f93957"
     },
     {
       "type": "WEB",

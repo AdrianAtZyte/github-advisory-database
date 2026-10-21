@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-26f7-hh7p-wmqm",
-  "modified": "2026-10-18T18:31:58Z",
+  "modified": "2026-10-21T15:41:50Z",
   "published": "2026-10-18T18:31:58Z",
   "aliases": [
     "CVE-2026-98657"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/20ebd7f4e35c0a737f011bc83aeb0cdd37507648"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/2c8211eef98929c5188f8c2224e83b9a63b41bd1"
     },
     {
       "type": "WEB",

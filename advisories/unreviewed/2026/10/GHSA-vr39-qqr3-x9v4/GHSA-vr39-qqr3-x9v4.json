@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-vr39-qqr3-x9v4",
-  "modified": "2026-10-20T21:30:54Z",
+  "modified": "2026-10-21T15:42:01Z",
   "published": "2026-10-20T15:31:23Z",
   "aliases": [
     "CVE-2026-113470"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083382"
+    },
+    {
+      "type": "WEB",
+      "url": "https://lists.debian.org/debian-lts-announce/2026/10/msg00041.html"
     },
     {
       "type": "WEB",

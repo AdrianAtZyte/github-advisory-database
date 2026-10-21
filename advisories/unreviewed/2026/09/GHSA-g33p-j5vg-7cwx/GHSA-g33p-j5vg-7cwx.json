@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-g33p-j5vg-7cwx",
-  "modified": "2026-09-25T15:31:44Z",
+  "modified": "2026-10-21T15:41:40Z",
   "published": "2026-09-25T12:31:35Z",
   "aliases": [
     "CVE-2026-98073"
@@ -18,6 +18,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-98073"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/119ac1716705af17fb74b3e33058a938a87eecd4"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/54772bf503dd0e81e8b8db537fee6946de81e717"
     },
     {
       "type": "WEB",

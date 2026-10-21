@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-ghhr-fv6h-x88w",
-  "modified": "2026-10-18T18:32:02Z",
+  "modified": "2026-10-21T15:41:57Z",
   "published": "2026-10-18T18:32:02Z",
   "aliases": [
     "CVE-2026-98749"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-98749"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/158a07da2da720f2f98b4bea129212c6805d8ee0"
     },
     {
       "type": "WEB",

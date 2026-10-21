@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-hpgm-5w85-35mm",
-  "modified": "2026-10-18T18:32:00Z",
+  "modified": "2026-10-21T15:41:51Z",
   "published": "2026-10-18T18:32:00Z",
   "aliases": [
     "CVE-2026-98716"
@@ -25,6 +25,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/74836ae4785b9754bb36d0b18fcc1dec4e5e98d2"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/84da7a0e92207444d9cbfe69965e17db29008f27"
     },
     {
       "type": "WEB",

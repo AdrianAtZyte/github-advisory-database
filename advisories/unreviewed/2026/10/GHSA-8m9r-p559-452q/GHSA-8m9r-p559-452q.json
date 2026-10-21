@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-8m9r-p559-452q",
-  "modified": "2026-10-18T18:32:00Z",
+  "modified": "2026-10-21T15:41:51Z",
   "published": "2026-10-18T18:32:00Z",
   "aliases": [
     "CVE-2026-98710"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-98710"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/3ebc529726c0c038f49e513a7a6f1893552ee803"
     },
     {
       "type": "WEB",

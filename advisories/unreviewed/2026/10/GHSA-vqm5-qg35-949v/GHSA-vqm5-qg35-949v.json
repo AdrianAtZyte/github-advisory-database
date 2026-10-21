@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-vqm5-qg35-949v",
-  "modified": "2026-10-18T18:31:49Z",
+  "modified": "2026-10-21T15:41:49Z",
   "published": "2026-10-18T18:31:49Z",
   "aliases": [
     "CVE-2026-98450"
@@ -29,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/6c5c547f037bc18f0b8d0b5db5a648f8f630ce85"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/8afc80156b1d9e2cfd02d42c255305fad95b59fc"
     }
   ],
   "database_specific": {

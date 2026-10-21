@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-cgv7-rwvp-jx5m",
-  "modified": "2026-10-15T12:30:54Z",
+  "modified": "2026-10-21T15:41:38Z",
   "published": "2026-09-25T12:31:33Z",
   "aliases": [
     "CVE-2026-98019"
@@ -20,11 +20,19 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/627089c278df58749f25686c6a3caf7e181b5951"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/69a9ad004ccf5d45e534c7d503f47f643abe64b7"
     },
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/b1fe6379e401b8ce0f561cb4d84af2b70b4343c3"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/febbb66e682d8328f7c5bcbdd5e4291abab2e858"
     }
   ],
   "database_specific": {

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-p8vq-x7mj-pgvj",
-  "modified": "2026-10-03T12:31:21Z",
+  "modified": "2026-10-21T15:41:37Z",
   "published": "2026-09-25T12:31:29Z",
   "aliases": [
     "CVE-2026-97935"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97935"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/578d39ab420b18b76a12fc8d0573ec041a84da28"
     },
     {
       "type": "WEB",

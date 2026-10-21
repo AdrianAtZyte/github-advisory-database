@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-4r7h-j2g8-7vfx",
-  "modified": "2026-10-18T18:31:51Z",
+  "modified": "2026-10-21T15:41:50Z",
   "published": "2026-10-18T18:31:51Z",
   "aliases": [
     "CVE-2026-98490"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-98490"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/18866dc1f525f9ee4de7709529d1ae1af8d8e8be"
     },
     {
       "type": "WEB",

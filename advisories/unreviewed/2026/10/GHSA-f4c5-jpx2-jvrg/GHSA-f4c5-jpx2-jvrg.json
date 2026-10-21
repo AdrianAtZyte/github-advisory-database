@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-f4c5-jpx2-jvrg",
-  "modified": "2026-10-18T18:31:58Z",
+  "modified": "2026-10-21T15:41:50Z",
   "published": "2026-10-18T18:31:58Z",
   "aliases": [
     "CVE-2026-98668"
@@ -25,6 +25,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/b134ef820610bd873c9d59999d9824710964ce82"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/b4f53cec8cc94b37601ce0bb2b272b6753beed98"
     },
     {
       "type": "WEB",

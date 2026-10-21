@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-h7jm-4xpc-fcgr",
-  "modified": "2026-10-18T18:32:01Z",
+  "modified": "2026-10-21T15:41:52Z",
   "published": "2026-10-18T18:32:01Z",
   "aliases": [
     "CVE-2026-98735"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/51f95ea451f25d7e3f048c0f438f04fa74688aae"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/780affacd92977fd9b819bdc4f26a6832cb27fda"
     },
     {
       "type": "WEB",

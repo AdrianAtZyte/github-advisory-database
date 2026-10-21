@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-m7hp-r32v-xxxr",
-  "modified": "2026-10-18T18:32:03Z",
+  "modified": "2026-10-21T15:41:59Z",
   "published": "2026-10-18T18:32:03Z",
   "aliases": [
     "CVE-2026-98785"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/197946faa1b7968046ba475ae2f266847c6f51ed"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/29302964ef583f3a57efc3c990bc0a71337bd3a4"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-gvp5-mg7r-w29g",
-  "modified": "2026-10-18T18:32:05Z",
+  "modified": "2026-10-21T15:42:00Z",
   "published": "2026-10-18T18:32:05Z",
   "aliases": [
     "CVE-2026-98837"
@@ -29,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/850810c12686f80cdf7530f4f21e0157d904f739"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/df2787819bd137111b56b8631dd581b0cce7144d"
     }
   ],
   "database_specific": {

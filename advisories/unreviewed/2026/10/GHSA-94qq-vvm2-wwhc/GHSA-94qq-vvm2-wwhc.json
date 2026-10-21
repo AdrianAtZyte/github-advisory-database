@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-94qq-vvm2-wwhc",
-  "modified": "2026-10-18T18:31:58Z",
+  "modified": "2026-10-21T15:41:50Z",
   "published": "2026-10-18T18:31:58Z",
   "aliases": [
     "CVE-2026-98672"
@@ -17,6 +17,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/30d27899cbba5b080954b5d3741bd535806c3101"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/55f1cebee909c9a0d5c2e494bcfaabed54750eb5"
     },
     {
       "type": "WEB",

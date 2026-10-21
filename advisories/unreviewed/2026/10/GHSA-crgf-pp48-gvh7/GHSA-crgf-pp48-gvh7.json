@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-crgf-pp48-gvh7",
-  "modified": "2026-10-18T18:31:53Z",
+  "modified": "2026-10-21T15:41:50Z",
   "published": "2026-10-18T18:31:53Z",
   "aliases": [
     "CVE-2026-98544"
@@ -29,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/e09d1c6729ee4a7812128902d9274ff565f958b8"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/f04cbdfac9b8284146995ab7ba0d054ad1d20ec6"
     }
   ],
   "database_specific": {

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-hgm4-f6j5-3x27",
-  "modified": "2026-10-02T15:31:12Z",
+  "modified": "2026-10-21T15:41:43Z",
   "published": "2026-09-25T15:31:46Z",
   "aliases": [
     "CVE-2026-100076"
@@ -18,6 +18,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-100076"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/17260b5215d4ced17a733e2c027a76290e476fad"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/2f5e2752c2b4bad01df4523cfe2b41b702c60f00"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-qvvr-rf39-ch86",
-  "modified": "2026-09-25T12:31:30Z",
+  "modified": "2026-10-21T15:41:37Z",
   "published": "2026-09-25T12:31:30Z",
   "aliases": [
     "CVE-2026-97965"
@@ -29,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/bfb74c48ac2d31476d5e09cf9658844508d2608a"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/fb78beb64e0e79557e4cd7cd17fea744bb6f01d9"
     }
   ],
   "database_specific": {

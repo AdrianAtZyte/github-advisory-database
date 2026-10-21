@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-vr2q-55hv-76j4",
-  "modified": "2026-10-06T09:31:30Z",
+  "modified": "2026-10-21T15:41:43Z",
   "published": "2026-10-06T09:31:29Z",
   "aliases": [
     "CVE-2026-98198"
@@ -29,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/b48339b0a577783e4590a69e4cd2f2760ce33154"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/d073d306e587c1f35aaf9c07c42e54a3d5895d8f"
     }
   ],
   "database_specific": {

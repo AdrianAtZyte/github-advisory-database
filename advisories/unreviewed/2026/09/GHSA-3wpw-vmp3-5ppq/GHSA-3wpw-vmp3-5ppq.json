@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-3wpw-vmp3-5ppq",
-  "modified": "2026-10-03T12:31:21Z",
+  "modified": "2026-10-21T15:41:37Z",
   "published": "2026-09-25T12:31:29Z",
   "aliases": [
     "CVE-2026-97934"
@@ -29,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/c27f8b68c05808bb4f2bcde0e6d1c954a4b65f8a"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/c94985e4fd77eb8634f44fb42e551563c68c55b3"
     }
   ],
   "database_specific": {

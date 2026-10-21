@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-qq49-42v2-78c9",
-  "modified": "2026-10-18T18:32:04Z",
+  "modified": "2026-10-21T15:42:00Z",
   "published": "2026-10-18T18:32:04Z",
   "aliases": [
     "CVE-2026-98822"
@@ -13,6 +13,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-98822"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/2fe08c8ff26841430a3c98ab755337325b5d47b5"
     },
     {
       "type": "WEB",

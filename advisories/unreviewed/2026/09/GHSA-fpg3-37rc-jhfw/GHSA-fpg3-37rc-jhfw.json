@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-fpg3-37rc-jhfw",
-  "modified": "2026-09-25T12:31:37Z",
+  "modified": "2026-10-21T15:41:41Z",
   "published": "2026-09-25T12:31:37Z",
   "aliases": [
     "CVE-2026-98114"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/461f10a5297e85b7c1cd21838922f2e57b934d2d"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/99ae165acf633b13df34105815110fec332a2cdc"
     },
     {
       "type": "WEB",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-mvfp-xjr6-rmvq",
-  "modified": "2026-10-06T09:31:33Z",
+  "modified": "2026-10-21T15:41:43Z",
   "published": "2026-10-06T09:31:33Z",
   "aliases": [
     "CVE-2026-98297"
@@ -17,6 +17,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/6610c6fe4b8936c232048e6049bf77c70a6f759c"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/8010212197d4a3ee714f78ed77048d0b712ff925"
     },
     {
       "type": "WEB",

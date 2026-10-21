@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-7c78-fpcm-vcqr",
-  "modified": "2026-10-15T12:30:55Z",
+  "modified": "2026-10-21T15:41:41Z",
   "published": "2026-09-25T12:31:36Z",
   "aliases": [
     "CVE-2026-98085"
@@ -13,6 +13,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-98085"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/12c064bcfa56e3631be9f5336ee113b7f849959a"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/19cca7c36055906b3cff3e297618ee8a50cde25d"
     },
     {
       "type": "WEB",
