@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-6r6c-hcg9-f738",
-  "modified": "2026-10-21T15:42:32Z",
+  "modified": "2026-10-23T15:31:24Z",
   "published": "2026-10-21T15:42:32Z",
   "aliases": [
     "CVE-2025-60490"
@@ -29,6 +29,10 @@
     {
       "type": "WEB",
       "url": "https://infosec.exchange/@sigdevel/117456620287496398"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/10/23/15"
     }
   ],
   "database_specific": {
