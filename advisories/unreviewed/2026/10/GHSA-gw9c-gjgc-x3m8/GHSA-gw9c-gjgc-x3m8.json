@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-gw9c-gjgc-x3m8",
-  "modified": "2026-10-21T15:42:28Z",
+  "modified": "2026-10-23T21:35:48Z",
   "published": "2026-10-21T15:42:28Z",
   "aliases": [
     "CVE-2026-114400"
@@ -25,6 +25,10 @@
     },
     {
       "type": "WEB",
+      "url": "https://github.com/polonel/trudesk/issues/754"
+    },
+    {
+      "type": "WEB",
       "url": "https://github.com/polonel/trudesk"
     },
     {
@@ -42,6 +46,10 @@
     {
       "type": "WEB",
       "url": "https://www.vulncheck.com/advisories/trudesk-through-1.2.11-missing-authentication-for-ticket-attachments-via-uploads"
+    },
+    {
+      "type": "WEB",
+      "url": "https://zineausa.com/blog/2026/10/trudesk-1-2-11-unauthorized-ticket-access-idor"
     }
   ],
   "database_specific": {

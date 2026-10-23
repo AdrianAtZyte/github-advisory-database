@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-836q-x8w9-9gg6",
-  "modified": "2026-10-21T15:42:26Z",
+  "modified": "2026-10-23T21:35:48Z",
   "published": "2026-10-21T15:42:26Z",
   "aliases": [
     "CVE-2026-114392"
@@ -25,6 +25,10 @@
     },
     {
       "type": "WEB",
+      "url": "https://github.com/polonel/trudesk/issues/754"
+    },
+    {
+      "type": "WEB",
       "url": "https://github.com/polonel/trudesk"
     },
     {
@@ -38,6 +42,10 @@
     {
       "type": "WEB",
       "url": "https://www.vulncheck.com/advisories/trudesk-through-1.2.11-authorization-bypass-via-get-api-v1-tickets-uid"
+    },
+    {
+      "type": "WEB",
+      "url": "https://zineausa.com/blog/2026/10/trudesk-1-2-11-unauthorized-ticket-access-idor"
     }
   ],
   "database_specific": {
