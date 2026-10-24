@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-q422-9435-7hfq",
-  "modified": "2026-10-18T18:31:54Z",
+  "modified": "2026-10-24T15:32:47Z",
   "published": "2026-10-18T18:31:54Z",
   "aliases": [
     "CVE-2026-98555"
   ],
   "details": "In the Linux kernel, the following vulnerability has been resolved:\n\nllc: fix skb UAF and leaks on llc_mac_hdr_init() failure\n\nIn llc_conn_ac_resend_i_xxx_x_set_0_or_send_rr(), if llc_mac_hdr_init()\nfails, kfree_skb(skb) is called instead of kfree_skb(nskb). This leaks\nthe newly allocated nskb, reads from the freed skb via LLC_I_GET_NR(pdu),\nand double-frees skb when llc_conn_state_process() drops its reference.\n\nIn llc_sap_action_send_xid_r() and llc_sap_action_send_test_r(), nskb is\nleaked if llc_mac_hdr_init() returns an error.\n\nFree nskb in all three error paths.",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:A/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -49,7 +54,7 @@
   ],
   "database_specific": {
     "cwe_ids": [],
-    "severity": null,
+    "severity": "HIGH",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-10-18T16:17:07Z"

@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-wq82-wxrv-wcj7",
-  "modified": "2026-10-18T18:31:52Z",
+  "modified": "2026-10-24T15:32:47Z",
   "published": "2026-10-18T18:31:52Z",
   "aliases": [
     "CVE-2026-98524"
   ],
   "details": "In the Linux kernel, the following vulnerability has been resolved:\n\nrds: ib: Clear the sg list when mapping an MR fails\n\nrds_ib_map_frmr() stores the caller's scatterlist in the MR before DMA\nmapping and registration can fail. On failure, __rds_rdma_map() unpins\nthe pages and frees the scatterlist, but rds_ib_free_frmr() can still\nreturn the MR to the pool with the stale pointer set.\n\nThis leaves the pool with a dangling scatterlist and can lead to local\nprivilege escalation. KASAN detects the resulting use-after-free when the\nMR is later torn down:\n\nBUG: KASAN: slab-use-after-free in __rds_ib_teardown_mr\nRead of size 8\n\nCall Trace:\n __rds_ib_teardown_mr\n rds_ib_unreg_frmr\n rds_ib_flush_mr_pool\n rds_ib_flush_mrs\n rds_free_mr\n rds_setsockopt\n\nStore the scatterlist in the MR only after DMA mapping succeeds. If DMA\nmapping fails, return directly while the MR fields remain clear; the caller\nkeeps ownership of the scatterlist and its pinned pages. If a later\nregistration step fails, unmap the scatterlist and clear the MR fields\nbefore returning.",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -49,7 +54,7 @@
   ],
   "database_specific": {
     "cwe_ids": [],
-    "severity": null,
+    "severity": "HIGH",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-10-18T16:17:03Z"
