@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-6q48-6c7w-9gw2",
-  "modified": "2026-10-20T19:35:05Z",
+  "modified": "2026-10-26T16:02:12Z",
   "published": "2026-10-20T19:35:05Z",
   "aliases": [],
   "summary": "certifi bundles emSign root CAs with compromised intermediate CA keys",
@@ -26,7 +26,7 @@
               "introduced": "2019.03.09"
             },
             {
-              "fixed": "2026.10.19"
+              "fixed": "2026.10.18"
             }
           ]
         }
