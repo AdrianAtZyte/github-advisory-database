@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-jm5p-837g-rv8g",
-  "modified": "2026-08-20T18:45:28Z",
+  "modified": "2026-10-26T14:47:40Z",
   "published": "2026-08-20T18:45:27Z",
   "aliases": [],
   "summary": "Wagtail: Improper restriction handling on Page translation API endpoint",
@@ -42,7 +42,7 @@
           "type": "ECOSYSTEM",
           "events": [
             {
-              "introduced": "7.1"
+              "introduced": "7.1rc1"
             },
             {
               "fixed": "7.3.4"
@@ -61,7 +61,7 @@
           "type": "ECOSYSTEM",
           "events": [
             {
-              "introduced": "7.4"
+              "introduced": "7.4rc1"
             },
             {
               "fixed": "7.4.3"
@@ -101,6 +101,22 @@
     {
       "type": "PACKAGE",
       "url": "https://github.com/wagtail/wagtail"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/wagtail/wagtail/releases/tag/v7.0.9"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/wagtail/wagtail/releases/tag/v7.3.4"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/wagtail/wagtail/releases/tag/v7.4.3"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/wagtail/wagtail/releases/tag/v8.0rc2"
     }
   ],
   "database_specific": {
