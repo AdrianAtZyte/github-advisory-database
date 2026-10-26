@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-v76p-62qx-wwq2",
-  "modified": "2026-10-26T14:14:07Z",
+  "modified": "2026-10-26T16:04:11Z",
   "published": "2026-10-07T16:18:57Z",
   "aliases": [
     "CVE-2026-106118"
@@ -18,7 +18,7 @@
     {
       "package": {
         "ecosystem": "NuGet",
-        "name": "ImageSharp"
+        "name": "SixLabors.ImageSharp"
       },
       "ranges": [
         {
@@ -37,7 +37,7 @@
     {
       "package": {
         "ecosystem": "NuGet",
-        "name": "ImageSharp"
+        "name": "SixLabors.ImageSharp"
       },
       "ranges": [
         {
