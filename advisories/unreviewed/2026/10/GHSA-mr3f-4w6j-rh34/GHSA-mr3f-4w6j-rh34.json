@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-mr3f-4w6j-rh34",
-  "modified": "2026-10-26T21:36:08Z",
+  "modified": "2026-10-27T06:31:22Z",
   "published": "2026-10-26T21:36:08Z",
   "aliases": [
     "CVE-2026-116638"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://kb.cert.org/vuls/id/226679"
+    },
+    {
+      "type": "WEB",
+      "url": "https://www.kb.cert.org/vuls/id/226679"
     }
   ],
   "database_specific": {
