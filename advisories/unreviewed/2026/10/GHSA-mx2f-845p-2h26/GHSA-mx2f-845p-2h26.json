@@ -1,13 +1,17 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-mx2f-845p-2h26",
-  "modified": "2026-10-02T09:31:19Z",
+  "modified": "2026-10-28T15:31:07Z",
   "published": "2026-10-02T09:31:18Z",
   "aliases": [
     "CVE-2026-103602"
   ],
   "details": "Improper certificate validation in PkixNameConstraintValidator in Legion of the Bouncy Castle Inc. bc-csharp before 2.7.0 allows an attacker who controls, or can obtain certificates from, a name-constrained intermediate CA to have certificates accepted during PKIX certification path validation for email addresses, DNS names or URI hosts that lie within excluded subtrees applying to that CA, via an rfc822Name, dNSName or uniformResourceIdentifier name whose host ends with a dot, because names and constraints were compared without first removing the RFC 1034 root-label trailing dot, so a fully qualified host name did not match an excluded subtree for the same host written without the dot.",
   "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
+    },
     {
       "type": "CVSS_V4",
       "score": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X"

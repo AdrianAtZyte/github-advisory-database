@@ -1,13 +1,17 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-v84x-v65q-m82v",
-  "modified": "2026-10-02T09:31:18Z",
+  "modified": "2026-10-28T15:31:07Z",
   "published": "2026-10-02T09:31:18Z",
   "aliases": [
     "CVE-2026-103601"
   ],
   "details": "Release of unverified plaintext in the CCM (CcmBlockCipher) and DSTU 7624 CCM (KCcmBlockCipher) AEAD modes in Legion of the Bouncy Castle Inc. bc-csharp before 2.7.0 allows a remote attacker to obtain decryptions of ciphertexts of their choosing via forged messages sent to an application that lets the output buffer of a failed decryption be observed, for example through buffer reuse or logging, because decryption wrote the recovered plaintext into the caller-supplied output buffer before checking the authentication tag and left it there when the check failed. Only decryption into a caller-supplied buffer is affected; methods that return a newly allocated array are not.",
   "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+    },
     {
       "type": "CVSS_V4",
       "score": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X"
