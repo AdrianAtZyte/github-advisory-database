@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-q27h-3599-9x7j",
-  "modified": "2026-10-29T18:31:12Z",
+  "modified": "2026-10-29T21:31:25Z",
   "published": "2026-10-29T18:31:12Z",
   "aliases": [
     "CVE-2026-116566"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://mail.python.org/archives/list/security-announce@python.org/thread/HCHE62VYTPYI6WOPJQDWUBR4CINBPSM7"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/10/29/4"
     }
   ],
   "database_specific": {
