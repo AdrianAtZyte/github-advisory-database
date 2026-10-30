@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-cx2v-gr95-582j",
-  "modified": "2026-10-28T12:31:05Z",
+  "modified": "2026-10-30T15:34:23Z",
   "published": "2026-10-28T12:31:05Z",
   "aliases": [
     "CVE-2026-99142"
@@ -24,7 +24,15 @@
     },
     {
       "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/c43c41ec62ca54ae145aa4912c6692a26d625734"
+    },
+    {
+      "type": "WEB",
       "url": "https://git.kernel.org/stable/c/c47a7b11bcb3d45e29723afcf6336866476b1d08"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/d6f0006f194db49c54117ae22146421da5a2ca59"
     }
   ],
   "database_specific": {
