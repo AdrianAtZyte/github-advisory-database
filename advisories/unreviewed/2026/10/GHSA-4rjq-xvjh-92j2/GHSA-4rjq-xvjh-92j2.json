@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-4rjq-xvjh-92j2",
-  "modified": "2026-10-30T15:34:31Z",
+  "modified": "2026-10-30T18:32:36Z",
   "published": "2026-10-30T15:34:31Z",
   "aliases": [
     "CVE-2026-87768"
@@ -17,6 +17,10 @@
     {
       "type": "WEB",
       "url": "https://metacpan.org/release/JDEGUEST/DateTime-Lite-v0.8.1/changes"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/10/30/10"
     }
   ],
   "database_specific": {

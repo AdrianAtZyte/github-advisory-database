@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-f6fq-c3r4-3jxq",
-  "modified": "2026-10-30T15:34:30Z",
+  "modified": "2026-10-30T18:32:36Z",
   "published": "2026-10-30T15:34:30Z",
   "aliases": [
     "CVE-2026-118988"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://metacpan.org/release/OETIKER/CallBackery-0.60.1/source/CHANGES"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/10/30/11"
     }
   ],
   "database_specific": {

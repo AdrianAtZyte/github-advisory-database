@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-qgp9-frp4-99qf",
-  "modified": "2026-10-30T15:34:30Z",
+  "modified": "2026-10-30T18:32:36Z",
   "published": "2026-10-30T15:34:30Z",
   "aliases": [
     "CVE-2026-116130"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://metacpan.org/release/KAZUHO/HTTP-Parser-XS-0.18/changes"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/10/30/12"
     }
   ],
   "database_specific": {
