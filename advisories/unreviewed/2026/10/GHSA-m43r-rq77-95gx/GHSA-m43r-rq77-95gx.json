@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-m43r-rq77-95gx",
-  "modified": "2026-10-30T18:32:45Z",
+  "modified": "2026-10-30T21:32:15Z",
   "published": "2026-10-30T18:32:44Z",
   "aliases": [
     "CVE-2026-119763"
@@ -42,6 +42,10 @@
     {
       "type": "WEB",
       "url": "https://hackmd.io/@hieund/changelog-com-preview-unpublished-content-missing-authz"
+    },
+    {
+      "type": "WEB",
+      "url": "https://hackmd.io/@hieund/cve-2026-119763-changelog-com-preview-unpublished-content-missing-authz"
     },
     {
       "type": "WEB",
