@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-7pvg-2h32-c6jc",
-  "modified": "2026-10-30T09:31:26Z",
+  "modified": "2026-10-30T12:31:14Z",
   "published": "2026-10-30T09:31:26Z",
   "aliases": [
     "CVE-2026-65874"
@@ -25,6 +25,10 @@
     {
       "type": "WEB",
       "url": "https://lists.apache.org/thread/c4q539mkm5blnp5vdb72tzq6r9qg7bdh"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/10/30/5"
     }
   ],
   "database_specific": {
