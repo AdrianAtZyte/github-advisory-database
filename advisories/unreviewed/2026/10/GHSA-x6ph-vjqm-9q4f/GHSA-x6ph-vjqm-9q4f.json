@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-x6ph-vjqm-9q4f",
-  "modified": "2026-10-30T15:34:23Z",
+  "modified": "2026-10-31T15:30:22Z",
   "published": "2026-10-28T12:31:05Z",
   "aliases": [
     "CVE-2026-99154"
   ],
   "details": "In the Linux kernel, the following vulnerability has been resolved:\n\nscsi: libiscsi: Reject a negative task index from parse_pdu_itt\n\nA transport that implements parse_pdu_itt hands libiscsi an index taken\nfrom the PDU, and both lookups bound it from above only:\n\n      if (i >= session->cmds_max)\n\ni and cmds_max are both int, so a negative index passes and\nsession->cmds[i] is read from before the array.\n\nbe2iscsi produces one. beiscsi_parse_pdu() assigns the raw tag,\n\n      *index = (int)itt;\n\nand beiscsi_complete_pdu() forwards an unsolicited NOP-In from the\nhardware async ring without replacing its ITT, so the value is the\ntarget's. It also reports the session's own age rather than the one in\nthe tag, which leaves the age comparison in iscsi_verify_itt() with\nnothing to reject.\n\nBound the index from below in both lookups.",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -49,7 +54,7 @@
   ],
   "database_specific": {
     "cwe_ids": [],
-    "severity": null,
+    "severity": "CRITICAL",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-10-28T11:17:35Z"
