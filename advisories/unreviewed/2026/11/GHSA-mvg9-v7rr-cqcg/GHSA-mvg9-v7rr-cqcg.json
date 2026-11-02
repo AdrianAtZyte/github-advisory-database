@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-mvg9-v7rr-cqcg",
-  "modified": "2026-11-02T15:31:33Z",
+  "modified": "2026-11-02T21:31:51Z",
   "published": "2026-11-02T15:31:33Z",
   "aliases": [
     "CVE-2026-109083"
@@ -17,6 +17,10 @@
     {
       "type": "WEB",
       "url": "https://lists.apache.org/thread.html/zmzxzxv7wjzn071jgn069y2rqjpcrt3s"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/11/02/7"
     }
   ],
   "database_specific": {

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-4mxc-3jg8-grfh",
-  "modified": "2026-11-02T15:31:33Z",
+  "modified": "2026-11-02T21:31:51Z",
   "published": "2026-11-02T15:31:33Z",
   "aliases": [
     "CVE-2026-110535"
@@ -17,6 +17,10 @@
     {
       "type": "WEB",
       "url": "https://lists.apache.org/thread.html/25vbq0pvj8svk8gl8pjld1j0nzrdxy26"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/11/02/8"
     }
   ],
   "database_specific": {
