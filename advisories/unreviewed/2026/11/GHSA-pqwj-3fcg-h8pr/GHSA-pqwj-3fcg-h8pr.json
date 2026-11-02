@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-pqwj-3fcg-h8pr",
-  "modified": "2026-11-02T15:31:51Z",
+  "modified": "2026-11-02T18:32:25Z",
   "published": "2026-11-02T15:31:51Z",
   "aliases": [
     "CVE-2026-73696"
@@ -30,6 +30,10 @@
     {
       "type": "WEB",
       "url": "https://www.vulncheck.com/advisories/control-web-panel-cwp-authentication-bypass-via-execution-after-redirect"
+    },
+    {
+      "type": "WEB",
+      "url": "https://www.vulncheck.com/advisories/control-web-panel-cwp-execution-after-redirect-in-cwpuserindex"
     }
   ],
   "database_specific": {
