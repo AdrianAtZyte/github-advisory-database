@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-jrx5-4fv3-4mcq",
-  "modified": "2026-10-30T15:34:12Z",
+  "modified": "2026-11-03T12:31:48Z",
   "published": "2026-10-21T21:32:38Z",
   "aliases": [
     "CVE-2026-114406"
@@ -22,10 +22,6 @@
     {
       "type": "WEB",
       "url": "https://access.redhat.com/errata/RHSA-2026:86595"
-    },
-    {
-      "type": "WEB",
-      "url": "https://access.redhat.com/errata/RHSA-2026:91218"
     },
     {
       "type": "WEB",
@@ -122,6 +118,14 @@
     {
       "type": "WEB",
       "url": "https://access.redhat.com/errata/RHSA-2026:93046"
+    },
+    {
+      "type": "WEB",
+      "url": "https://access.redhat.com/errata/RHSA-2026:94459"
+    },
+    {
+      "type": "WEB",
+      "url": "https://access.redhat.com/errata/RHSA-2026:94468"
     },
     {
       "type": "WEB",
@@ -250,6 +254,10 @@
     {
       "type": "WEB",
       "url": "https://access.redhat.com/errata/RHSA-2026:91217"
+    },
+    {
+      "type": "WEB",
+      "url": "https://access.redhat.com/errata/RHSA-2026:91218"
     }
   ],
   "database_specific": {
