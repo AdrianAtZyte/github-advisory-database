@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-g7fp-pvxq-ggj5",
-  "modified": "2026-11-03T12:31:50Z",
+  "modified": "2026-11-03T21:32:06Z",
   "published": "2026-11-03T12:31:50Z",
   "aliases": [
     "CVE-2026-99254"
@@ -17,6 +17,10 @@
     {
       "type": "WEB",
       "url": "https://git.kernel.org/stable/c/14f56e9c0b8fdc2e178acdbec9781e90ef46f7e9"
+    },
+    {
+      "type": "WEB",
+      "url": "https://git.kernel.org/stable/c/22e643e61b9b6299b42ff7d88bab48bccada8a5d"
     },
     {
       "type": "WEB",
