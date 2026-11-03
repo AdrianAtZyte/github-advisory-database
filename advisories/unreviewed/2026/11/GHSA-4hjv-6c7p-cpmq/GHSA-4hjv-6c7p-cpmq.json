@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-4hjv-6c7p-cpmq",
-  "modified": "2026-11-03T15:31:56Z",
+  "modified": "2026-11-03T18:31:00Z",
   "published": "2026-11-03T15:31:56Z",
   "aliases": [
     "CVE-2026-118527"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-CVE-2026-104935?language=en_US"
+    },
+    {
+      "type": "WEB",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-118527"
     }
   ],
   "database_specific": {
