@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-x36f-3cwx-9h52",
-  "modified": "2026-11-04T15:32:31Z",
+  "modified": "2026-11-04T21:32:27Z",
   "published": "2026-11-04T15:32:30Z",
   "aliases": [
     "CVE-2026-114627"
@@ -21,6 +21,10 @@
     {
       "type": "WEB",
       "url": "https://metacpan.org/release/ETHER/Web-Simple-0.036/changes"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/11/04/5"
     }
   ],
   "database_specific": {

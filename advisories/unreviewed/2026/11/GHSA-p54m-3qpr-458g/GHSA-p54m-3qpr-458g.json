@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-p54m-3qpr-458g",
-  "modified": "2026-11-03T21:32:23Z",
+  "modified": "2026-11-04T21:32:20Z",
   "published": "2026-11-03T21:32:23Z",
   "aliases": [
     "CVE-2026-121108"
   ],
   "details": "Confused deputy in BackgroundFetch in Google Chrome prior to 157.0.8103.38 allowed a remote attacker to potentially bypass web origin policy via a crafted HTML page. (Chromium security severity: Medium)",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -27,7 +32,7 @@
     "cwe_ids": [
       "CWE-441"
     ],
-    "severity": null,
+    "severity": "HIGH",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-11-03T21:17:17Z"

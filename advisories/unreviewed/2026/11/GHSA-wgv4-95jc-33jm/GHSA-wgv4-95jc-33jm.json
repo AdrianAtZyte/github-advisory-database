@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-wgv4-95jc-33jm",
-  "modified": "2026-11-04T15:32:31Z",
+  "modified": "2026-11-04T21:32:27Z",
   "published": "2026-11-04T15:32:31Z",
   "aliases": [
     "CVE-2026-122006"
@@ -22,6 +22,14 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-122006"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/digitalocean/droplet-1-clicks/pull/488"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/rubysec/ruby-advisory-db/pull/1300"
     },
     {
       "type": "WEB",

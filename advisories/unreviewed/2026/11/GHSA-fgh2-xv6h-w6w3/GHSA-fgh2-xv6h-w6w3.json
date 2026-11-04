@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-fgh2-xv6h-w6w3",
-  "modified": "2026-11-03T21:32:27Z",
+  "modified": "2026-11-04T21:32:21Z",
   "published": "2026-11-03T21:32:27Z",
   "aliases": [
     "CVE-2026-121217"
   ],
   "details": "Use after free in Streaming in Google Chrome prior to 157.0.8103.38 allowed an adjacent attacker to execute arbitrary code inside the sandbox via crafted network traffic. (Chromium security severity: Low)",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:A/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -27,7 +32,7 @@
     "cwe_ids": [
       "CWE-416"
     ],
-    "severity": null,
+    "severity": "HIGH",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-11-03T21:17:31Z"
