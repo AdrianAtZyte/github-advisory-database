@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.4.0",
+  "id": "GHSA-292c-37qx-v9g9",
+  "modified": "2026-11-04T06:32:57Z",
+  "published": "2026-11-04T06:32:57Z",
+  "aliases": [
+    "CVE-2026-110964"
+  ],
+  "details": "The Essential Real Estate WordPress plugin before 5.3.5 does not verify that a media attachment belongs to the requesting user before deleting it, allowing a self-registered customer-level user to delete other users' media library attachments, including those owned by administrators.",
+  "severity": [],
+  "affected": [],
+  "references": [
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-110964"
+    },
+    {
+      "type": "WEB",
+      "url": "https://wpscan.com/vulnerability/2c79fd6f-56ca-4133-ac6c-84b2d15c0fa4"
+    }
+  ],
+  "database_specific": {
+    "cwe_ids": [],
+    "severity": null,
+    "github_reviewed": false,
+    "github_reviewed_at": null,
+    "nvd_published_at": "2026-11-04T06:16:58Z"
+  }
+}

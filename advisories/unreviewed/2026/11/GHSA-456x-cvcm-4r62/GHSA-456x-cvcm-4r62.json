@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.4.0",
+  "id": "GHSA-456x-cvcm-4r62",
+  "modified": "2026-11-04T06:32:58Z",
+  "published": "2026-11-04T06:32:57Z",
+  "aliases": [
+    "CVE-2026-111740"
+  ],
+  "details": "The Post Duplicator WordPress plugin before 3.0.17 does not check whether the requesting user may view each post before returning a list of posts for a post type, allowing users with a role as low as Contributor to read the titles and hierarchy of other users' draft and private posts.",
+  "severity": [],
+  "affected": [],
+  "references": [
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111740"
+    },
+    {
+      "type": "WEB",
+      "url": "https://wpscan.com/vulnerability/dc6c6d3b-2843-45b2-b61c-9f6dc63bbedd"
+    }
+  ],
+  "database_specific": {
+    "cwe_ids": [],
+    "severity": null,
+    "github_reviewed": false,
+    "github_reviewed_at": null,
+    "nvd_published_at": "2026-11-04T06:16:58Z"
+  }
+}
