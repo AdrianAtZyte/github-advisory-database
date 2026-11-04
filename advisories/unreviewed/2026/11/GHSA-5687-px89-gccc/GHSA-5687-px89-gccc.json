@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-5687-px89-gccc",
-  "modified": "2026-11-04T12:31:33Z",
+  "modified": "2026-11-04T15:32:29Z",
   "published": "2026-11-04T12:31:33Z",
   "aliases": [
     "CVE-2026-59267"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://lists.apache.org/thread.html/pwcm02dq2cy42qq2owzlvf48s8258499"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/11/03/23"
     }
   ],
   "database_specific": {

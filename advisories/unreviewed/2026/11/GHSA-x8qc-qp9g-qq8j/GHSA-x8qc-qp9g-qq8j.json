@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-x8qc-qp9g-qq8j",
-  "modified": "2026-11-03T06:31:14Z",
+  "modified": "2026-11-04T15:32:23Z",
   "published": "2026-11-03T06:31:13Z",
   "aliases": [
     "CVE-2026-115205"
   ],
   "details": "The AZEXO Store Locator WordPress plugin through 1.4 does not have a capability check or any authorization control when deleting a post, allowing any authenticated user, such as a subscriber, to delete arbitrary posts and pages.",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -20,8 +25,10 @@
     }
   ],
   "database_specific": {
-    "cwe_ids": [],
-    "severity": null,
+    "cwe_ids": [
+      "CWE-862"
+    ],
+    "severity": "MODERATE",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-11-03T06:17:37Z"

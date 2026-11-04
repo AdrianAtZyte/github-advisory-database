@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-v2q9-hw4w-2v6m",
-  "modified": "2026-11-04T06:32:58Z",
+  "modified": "2026-11-04T15:32:27Z",
   "published": "2026-11-04T06:32:58Z",
   "aliases": [
     "CVE-2026-112244"
   ],
   "details": "The Duplicator  WordPress plugin before 5.1.0, duplicator-pro WordPress plugin before 5.1.0 does not prevent direct access to some of its bundled PHP files, which initialise without their expected context, trigger a fatal error, and return a stack trace that discloses the server's absolute filesystem paths to unauthenticated users.",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -20,8 +25,10 @@
     }
   ],
   "database_specific": {
-    "cwe_ids": [],
-    "severity": null,
+    "cwe_ids": [
+      "CWE-209"
+    ],
+    "severity": "MODERATE",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-11-04T06:16:59Z"

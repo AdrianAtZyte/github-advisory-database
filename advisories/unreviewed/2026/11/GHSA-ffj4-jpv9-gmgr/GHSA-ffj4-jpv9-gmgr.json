@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-ffj4-jpv9-gmgr",
-  "modified": "2026-11-04T12:31:31Z",
+  "modified": "2026-11-04T15:32:29Z",
   "published": "2026-11-04T12:31:31Z",
   "aliases": [
     "CVE-2026-59263"
@@ -22,6 +22,10 @@
     {
       "type": "WEB",
       "url": "https://lists.apache.org/thread.html/drr0ss9wrkq0omlrwjhcm8738pjx3xgd"
+    },
+    {
+      "type": "WEB",
+      "url": "http://www.openwall.com/lists/oss-security/2026/11/03/21"
     }
   ],
   "database_specific": {
