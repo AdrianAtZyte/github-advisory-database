@@ -1,7 +1,7 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-c9f5-j9c3-mhrg",
-  "modified": "2026-11-05T17:45:17Z",
+  "modified": "2026-11-05T21:43:49Z",
   "published": "2026-08-28T18:57:27Z",
   "aliases": [
     "CVE-2026-55622"
@@ -29,38 +29,6 @@
             },
             {
               "fixed": "7.2.0"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "package": {
-        "ecosystem": "Go",
-        "name": "github.com/lxc/incus"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "package": {
-        "ecosystem": "Go",
-        "name": "github.com/lxc/incus/v6"
-      },
-      "ranges": [
-        {
-          "type": "ECOSYSTEM",
-          "events": [
-            {
-              "introduced": "0"
             }
           ]
         }
