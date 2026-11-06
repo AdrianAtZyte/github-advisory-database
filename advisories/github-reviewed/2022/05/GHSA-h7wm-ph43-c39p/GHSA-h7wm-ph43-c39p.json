@@ -28,7 +28,7 @@
               "introduced": "0.7"
             },
             {
-              "last_affected": "2.15.2"
+              "fixed": "2.20.0"
             }
           ]
         }
