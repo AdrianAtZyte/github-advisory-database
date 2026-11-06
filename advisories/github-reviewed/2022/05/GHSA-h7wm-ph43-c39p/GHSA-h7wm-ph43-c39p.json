@@ -46,6 +46,18 @@
     },
     {
       "type": "WEB",
+      "url": "https://github.com/scrapy/scrapy/commit/ffe67f836f2b261614e6ef39230a94607e7c7960"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/scrapy/scrapy/commit/a0e3b34479d272129b1710f6aabe0652ddb9939c"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/scrapy/scrapy/releases/tag/2.20.0"
+    },
+    {
+      "type": "WEB",
       "url": "https://github.com/pypa/advisory-database/blob/8b7a4d62a95e8f605e5dfb4e0b4f299e6403dc12/vulns/scrapy/PYSEC-2017-83.yaml"
     },
     {
