@@ -1,13 +1,18 @@
 {
   "schema_version": "1.4.0",
   "id": "GHSA-f82m-v9ch-rh67",
-  "modified": "2026-11-05T18:33:15Z",
+  "modified": "2026-11-06T00:32:41Z",
   "published": "2026-11-05T18:33:15Z",
   "aliases": [
     "CVE-2026-123151"
   ],
   "details": "A flaw was found in the GNU debugger (GDB). When GDB connects to a remote debug target, a malicious target can cause GDB to overflow a buffer on the stack while parsing the target's replies. This can crash GDB or potentially allow the target to execute arbitrary code in the GDB client process with the privileges of the user running GDB.",
-  "severity": [],
+  "severity": [
+    {
+      "type": "CVSS_V3",
+      "score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+    }
+  ],
   "affected": [],
   "references": [
     {
@@ -27,7 +32,7 @@
     "cwe_ids": [
       "CWE-121"
     ],
-    "severity": null,
+    "severity": "HIGH",
     "github_reviewed": false,
     "github_reviewed_at": null,
     "nvd_published_at": "2026-11-05T17:18:03Z"
